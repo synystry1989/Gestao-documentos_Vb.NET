@@ -1,0 +1,13 @@
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.vbproj.AssemblyReference.cache
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.FrmDocumentos.resources
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.Resources.resources
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.vbproj.GenerateResource.cache
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.vbproj.CoreCompileInputs.cache
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\bin\Debug\VMP_exercicio1.exe.config
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\bin\Debug\VMP_exercicio1.exe
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\bin\Debug\VMP_exercicio1.pdb
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\bin\Debug\VMP_exercicio1.xml
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.exe
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.xml
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.pdb
+C:\Users\synys\Desktop\Vimaponto\VMP_exercicio1\VMP_exercicio1\obj\Debug\VMP_exercicio1.FrmDados.resources

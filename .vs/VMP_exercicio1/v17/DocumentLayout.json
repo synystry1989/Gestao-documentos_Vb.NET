@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|c:\\users\\synys\\desktop\\vimaponto\\vmp_exercicio\\vmp_exercicio1\\frmdocumentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|solutionrelative:vmp_exercicio1\\frmdocumentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\vmp_exercicio1\\dsdocumentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|solutionrelative:vmp_exercicio1\\dsdocumentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\vmp_exercicio1\\frmdocumentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|solutionrelative:vmp_exercicio1\\frmdocumentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\vmp_exercicio1\\frmdados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|solutionrelative:vmp_exercicio1\\frmdados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\vmp_exercicio1\\frmdados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|solutionrelative:vmp_exercicio1\\frmdados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\vmp_exercicio1\\dsdocumentos.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C9B4AA06-329A-4DD5-A242-22D5C4771374}|VMP_exercicio1\\VMP_exercicio1.vbproj|solutionrelative:vmp_exercicio1\\dsdocumentos.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDados.vb",
+              "DocumentMoniker": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\FrmDados.vb",
+              "RelativeDocumentMoniker": "VMP_exercicio1\\FrmDados.vb",
+              "ToolTip": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\FrmDados.vb",
+              "RelativeToolTip": "VMP_exercicio1\\FrmDados.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-03T13:06:45.138Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDocumentos.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\FrmDocumentos.vb",
+              "RelativeDocumentMoniker": "VMP_exercicio1\\FrmDocumentos.vb",
+              "ToolTip": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\FrmDocumentos.vb [Design]",
+              "RelativeToolTip": "VMP_exercicio1\\FrmDocumentos.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-04T08:20:59.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDocumentos.vb",
+              "DocumentMoniker": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\FrmDocumentos.vb",
+              "RelativeDocumentMoniker": "VMP_exercicio1\\FrmDocumentos.vb",
+              "ToolTip": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\FrmDocumentos.vb",
+              "RelativeToolTip": "VMP_exercicio1\\FrmDocumentos.vb",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAvwHIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T20:41:08.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DsDocumentos.xsd",
+              "DocumentMoniker": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\DsDocumentos.xsd",
+              "RelativeDocumentMoniker": "VMP_exercicio1\\DsDocumentos.xsd",
+              "ToolTip": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\DsDocumentos.xsd",
+              "RelativeToolTip": "VMP_exercicio1\\DsDocumentos.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-07-03T14:40:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDados.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\FrmDados.vb",
+              "RelativeDocumentMoniker": "VMP_exercicio1\\FrmDados.vb",
+              "ToolTip": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio1\\VMP_exercicio1\\FrmDados.vb [Design]",
+              "RelativeToolTip": "..\\VMP_exercicio1\\VMP_exercicio1\\FrmDados.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-03T11:08:07.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DsDocumentos.vb",
+              "DocumentMoniker": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\DsDocumentos.vb",
+              "RelativeDocumentMoniker": "VMP_exercicio1\\DsDocumentos.vb",
+              "ToolTip": "C:\\Users\\synys\\Desktop\\Vimaponto\\VMP_exercicio\\VMP_exercicio1\\DsDocumentos.vb",
+              "RelativeToolTip": "VMP_exercicio1\\DsDocumentos.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T23:51:26.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

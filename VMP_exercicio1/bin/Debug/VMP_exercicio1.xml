@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VMP_exercicio1
+</name>
+</assembly>
+<members>
+<member name="T:VMP_exercicio1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VMP_exercicio1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VMP_exercicio1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.LinhasProdutosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.ProdutosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.TipoDocumentosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.CabecDocumentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.LinhasProdutosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.ProdutosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.TipoDocumentosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.CabecDocumentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.LinhasProdutosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.ProdutosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.TipoDocumentosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentos.CabecDocumentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.LinhasProdutosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.ProdutosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.TipoDocumentosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.CabecDocumentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:VMP_exercicio1.DsDocumentosTableAdapters.TableAdapterManager.UpdateUpdatedRows(VMP_exercicio1.DsDocumentos,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:VMP_exercicio1.DsDocumentosTableAdapters.TableAdapterManager.UpdateInsertedRows(VMP_exercicio1.DsDocumentos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:VMP_exercicio1.DsDocumentosTableAdapters.TableAdapterManager.UpdateDeletedRows(VMP_exercicio1.DsDocumentos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:VMP_exercicio1.DsDocumentosTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:VMP_exercicio1.DsDocumentosTableAdapters.TableAdapterManager.UpdateAll(VMP_exercicio1.DsDocumentos)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:VMP_exercicio1.DsDocumentosTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
